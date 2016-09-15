@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="CutPasteId">
+        <ignore path="src/com/emergencycall/android/MainActivity.java" />
+    </issue>
+    <issue id="WorldReadableFiles">
+        <ignore path="src/com/emergencycall/android/MainActivity.java" />
+    </issue>
+</lint>
